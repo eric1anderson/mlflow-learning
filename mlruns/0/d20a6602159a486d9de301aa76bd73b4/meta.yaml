@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/eric1/mlflow-learning/mlruns/0/d20a6602159a486d9de301aa76bd73b4/artifacts
+end_time: 1679604163571
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d20a6602159a486d9de301aa76bd73b4
+run_name: luxuriant-bird-534
+run_uuid: d20a6602159a486d9de301aa76bd73b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1679604160269
+status: 3
+tags: []
+user_id: eric1
