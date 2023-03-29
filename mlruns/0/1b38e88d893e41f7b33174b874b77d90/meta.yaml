@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/eric1/mlflow-learning/mlruns/0/1b38e88d893e41f7b33174b874b77d90/artifacts
+end_time: 1680110077826
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1b38e88d893e41f7b33174b874b77d90
+run_name: kindly-skunk-795
+run_uuid: 1b38e88d893e41f7b33174b874b77d90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1680110075281
+status: 3
+tags: []
+user_id: eric1
